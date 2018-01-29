@@ -1,5 +1,4 @@
 #include<reg52.h>
-//yoyoyoyo
 sbit led=P2^4;
 sbit uppump=P1^0;
 sbit downlevstop=P1^1;
